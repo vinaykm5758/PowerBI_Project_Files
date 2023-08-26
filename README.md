@@ -1,1 +1,2 @@
-# PowerBI_Project: This Repo is contains various types of PowerBI reports developed in POC project. Thanks
+# PowerBI_Project: 
+This Repo contains various types of PowerBI reports developed as part of POC project. Thanks
